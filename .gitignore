@@ -1,1 +1,3 @@
-#ignore .idea#ignore target#ignore test#ignore *.iml
+.idea/*
+target/*
+*.iml

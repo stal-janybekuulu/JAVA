@@ -1,4 +1,4 @@
-package part1.chap6.stack;
+package part1.chap6.classes;
 
 public class TestStack {
     public static void main(String[] args) {

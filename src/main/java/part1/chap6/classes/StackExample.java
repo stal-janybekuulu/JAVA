@@ -1,4 +1,4 @@
-package part1.chap6.stack;
+package part1.chap6.classes;
 
 /*
 В этом классе определяется целочисленный стек,

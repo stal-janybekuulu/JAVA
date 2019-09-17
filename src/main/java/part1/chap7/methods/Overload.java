@@ -1,4 +1,4 @@
-package reload.methods;
+package part1.chap7.methods;
 
 //Продемонстрировать перегрузку методов
 class OverloadDemo {
